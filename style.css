@@ -1,0 +1,13 @@
+h1 {
+  text-decoration: underline;
+  color: lightseagreen;
+}
+
+img {
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+body {
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(240,240,240,1) 35%, rgba(233,233,233,1) 100%);
+  font-family: 'Ubuntu', Verdana, sans-serif;
+}
